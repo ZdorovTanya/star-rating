@@ -1,1 +1,13 @@
+body{
+    margin: 0;
+    font-family: 'Borel', cursive;
+    background-color: #63a5da;
+}
 
+h1{
+    color: #ffc107;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+}
